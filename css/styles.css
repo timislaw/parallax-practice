@@ -1,0 +1,20 @@
+h1{
+    font-family: 'Inconsolata', monospace;
+}
+.jumbotron{
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin-bottom: 0px;
+}
+.jumbo1{
+    background-image: url(https://images.pexels.com/photos/34296/sunset-mood-sun-afterglow.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    
+}
+.jumbo2{
+    background-image: url(https://images.pexels.com/photos/3774243/pexels-photo-3774243.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260);
+}
+.jumbo3{
+    background-image: url(https://images.pexels.com/photos/2545312/pexels-photo-2545312.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    background-size: cover;
+}
