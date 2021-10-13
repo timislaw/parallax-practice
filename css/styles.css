@@ -40,3 +40,21 @@ footer{
     font-weight: bolder;
     color: white;
 }
+h2{
+    font-family: 'Inconsolata';
+}
+p{
+    font-family: 'Montserra';
+    font-weight: lighter;
+}
+
+.box{
+    flex: 1;
+    border: none;
+    border-radius: .5em;
+    font-size: 140%;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, .5);
+    color: white;
+    font-weight: lighter;
+}
